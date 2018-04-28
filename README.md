@@ -3,7 +3,7 @@
 
 ## Excel
 一些excel模板，减少录入人员的错误
-+ ![Area.xlsx] (https://github.com/Erzhoumu/Assists/blob/master/Excel/Area.xlsx)
-    实现了所有省市区的联动填选。
+1.   [Area.xlsx] (https://github.com/Erzhoumu/Assists/blob/master/Excel/Area.xlsx)
+实现了所有省市区的联动填选。
 
 
